@@ -3,9 +3,9 @@
 # GetPayments
 
 This setup demonstrates 
-- Message cloning capabilities
-- Message aggregation capabilities
-- Message sending capabilies of WSO2 Enterprise Integrator. 
+- Message List/Array iterating capabilities
+- Message routing capabilities
+- Message aggregate capabilies of WSO2 Enterprise Integrator. 
 
 # Versions
 - v1.0.0 using WSO2 EI 6.5.0
@@ -50,4 +50,4 @@ Now your APIs are ready for use. You can see API information from there
 
 
 # Setup
-![alt text](https://github.com/krishnilak/getPayments/blob/master/2.png)
+![alt text](https://github.com/krishnilak/batchPaymentProcess/blob/master/3.png)
